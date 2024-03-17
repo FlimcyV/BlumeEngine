@@ -1,0 +1,3 @@
+[submodule "BlumeEngine/vender/spdlog"]
+	path = BlumeEngine/vender/spdlog
+	url = https://github.com/gabime/spdlog
